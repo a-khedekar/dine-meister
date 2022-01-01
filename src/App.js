@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+import Maincontainer from "./Components/Maincontainer";
+import { Switch, Route } from "react-router-dom";
+import RecipePage from "./Components/RecipePage"
 
 function App() {
+  const apiKey = "f9ec686028f346bfb6673ac6c0544f49"
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="">
+      <Switch>
+        <Route exact path="/">
+          <Maincontainer apiKey={apiKey} />
+        </Route>
+        <Route path="/recipepage">
+          <RecipePage />
+        </Route>
+      </Switch>
     </div>
-  );
+  )
+
 }
 
 export default App;
