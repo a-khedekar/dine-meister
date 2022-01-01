@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dine-meister/static/css/main.911966ae.chunk.css",
+    "main.js": "/dine-meister/static/js/main.82dae1f3.chunk.js",
+    "main.js.map": "/dine-meister/static/js/main.82dae1f3.chunk.js.map",
+    "runtime-main.js": "/dine-meister/static/js/runtime-main.8576801b.js",
+    "runtime-main.js.map": "/dine-meister/static/js/runtime-main.8576801b.js.map",
+    "static/css/2.054b87fd.chunk.css": "/dine-meister/static/css/2.054b87fd.chunk.css",
+    "static/js/2.20057c1f.chunk.js": "/dine-meister/static/js/2.20057c1f.chunk.js",
+    "static/js/2.20057c1f.chunk.js.map": "/dine-meister/static/js/2.20057c1f.chunk.js.map",
+    "static/js/3.fcf33db4.chunk.js": "/dine-meister/static/js/3.fcf33db4.chunk.js",
+    "static/js/3.fcf33db4.chunk.js.map": "/dine-meister/static/js/3.fcf33db4.chunk.js.map",
+    "index.html": "/dine-meister/index.html",
+    "static/css/2.054b87fd.chunk.css.map": "/dine-meister/static/css/2.054b87fd.chunk.css.map",
+    "static/css/main.911966ae.chunk.css.map": "/dine-meister/static/css/main.911966ae.chunk.css.map",
+    "static/js/2.20057c1f.chunk.js.LICENSE.txt": "/dine-meister/static/js/2.20057c1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8576801b.js",
+    "static/css/2.054b87fd.chunk.css",
+    "static/js/2.20057c1f.chunk.js",
+    "static/css/main.911966ae.chunk.css",
+    "static/js/main.82dae1f3.chunk.js"
+  ]
+}
